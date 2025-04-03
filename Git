@@ -1,2 +1,2 @@
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/my-news-app.git
+git remote add origin https://github.com/corpway/Corpway-global-.git/my-news-app.git
 git push -u origin main
