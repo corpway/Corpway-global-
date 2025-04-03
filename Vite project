@@ -1,0 +1,3 @@
+npm create vite@latest my-news-app --template react
+cd my-news-app-media-stack
+npm install
